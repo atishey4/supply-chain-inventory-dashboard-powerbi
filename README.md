@@ -1,5 +1,21 @@
 # Supply Chain Efficiency & Inventory Optimization Dashboard
 
+## 📥 Download
+
+| File | Description |
+|---|---|
+| [📊 SupplyChain_Dashboard.pbix](https://github.com/atishey4/supply-chain-inventory-dashboard-powerbi/raw/main/SupplyChain_Dashboard.pbix) | Power BI Dashboard File |
+
+> **Note:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive dashboard.
+
+---
+
+## Dashboard Overview
+
+![Supply Chain Dashboard](screenshots/Screenshot%202026-04-19%20182407.png)
+
+---
+
 ## Objective
 Build an interactive Power BI dashboard to monitor supply chain KPIs (inventory turnover, days of inventory on hand, stockouts, fill rate, on-time delivery, lead time) and compute optimization policies (EOQ, safety stock, reorder point) per SKU.
 
@@ -117,15 +133,6 @@ Avg Inventory Turnover Ratio = AVERAGE(SupplyChainData[Inventory Turnover Ratio]
 - **Avg Inventory Turnover Ratio of 5.26** reflects moderately efficient inventory utilization across the portfolio
 - Products like **Conveyor Belt, Bearing Set, and Hard Hat** are below reorder level with delayed delivery status, posing the highest stockout risk
 - **Total Inventory Holding Cost of ₹1.35M** presents an opportunity for cost reduction through leaner inventory management in slow-moving categories
-
----
-
-## Screenshots
-
-### Dashboard Overview
-![Supply Chain Dashboard](screenshots/dashboard_overview.png)
-
-> *Add your Power BI dashboard screenshot here. Export from Power BI → File → Export → Export to PDF or take a screenshot and save in the `screenshots/` folder.*
 
 ---
 
