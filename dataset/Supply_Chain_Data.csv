@@ -1,0 +1,119 @@
+Date,Product_ID,Product_Name,Product_Category,Supplier_Name,Warehouse_Location,Region,Opening_Stock,Incoming_Stock,Units_Sold,Closing_Stock,Reorder_Level,Reorder_Status,Lead_Time_Days,Order_Quantity,Delivery_Status,Delivery_Time_Days,Inventory_Holding_Cost,Stockout_Status,Demand_Forecast,Actual_Demand,Forecast_Accuracy_Pct,Inventory_Turnover_Ratio
+2024-01-05,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,500,200,180,520,150,No Reorder,7,200,On Time,7,12500,No,190,180,0.947,3.2
+2024-01-08,P002,Safety Gloves,Safety Equipment,Sharma Traders,Delhi,North,800,300,250,850,200,No Reorder,5,300,On Time,5,8400,No,260,250,0.962,4.5
+2024-01-10,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,300,100,310,90,120,Reorder,10,150,Delayed,14,9800,No,300,310,0.968,5.1
+2024-01-12,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1200,500,400,1300,400,No Reorder,8,500,On Time,8,22000,No,420,400,0.952,2.8
+2024-01-15,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,600,200,580,220,250,Reorder,6,300,Delayed,9,7200,No,560,580,0.964,6.2
+2024-01-18,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,400,150,120,430,100,No Reorder,4,150,On Time,4,5500,No,130,120,0.923,3.8
+2024-01-20,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,200,80,190,90,80,Reorder,12,100,On Time,12,18000,No,200,190,0.950,4.9
+2024-01-22,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,2000,1000,1800,1200,500,No Reorder,3,1000,On Time,3,3200,No,1850,1800,0.973,7.1
+2024-01-25,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,350,100,360,90,120,Reorder,7,150,Delayed,11,6800,Yes,340,360,0.944,5.6
+2024-01-28,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,50,20,45,25,20,No Reorder,15,20,On Time,15,35000,No,40,45,0.889,3.3
+2024-02-02,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,520,180,200,500,150,No Reorder,7,200,On Time,7,13000,No,210,200,0.952,3.4
+2024-02-05,P002,Safety Gloves,Safety Equipment,Sharma Traders,Delhi,North,850,250,300,800,200,No Reorder,5,300,On Time,5,8800,No,280,300,0.929,4.8
+2024-02-07,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,90,200,180,110,120,Reorder,10,150,On Time,10,9200,No,170,180,0.941,4.7
+2024-02-10,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1300,400,380,1320,400,No Reorder,8,500,On Time,8,21000,No,400,380,0.950,2.9
+2024-02-12,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,220,400,500,120,250,Reorder,6,300,On Time,6,7500,No,480,500,0.960,6.4
+2024-02-15,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,430,120,150,400,100,No Reorder,4,150,On Time,4,5800,No,140,150,0.933,4.0
+2024-02-18,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,90,120,100,110,80,No Reorder,12,100,Delayed,16,17500,No,110,100,0.909,4.5
+2024-02-20,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,1200,800,1100,900,500,No Reorder,3,1000,On Time,3,3400,No,1000,1100,0.909,7.3
+2024-02-22,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,90,200,150,140,120,No Reorder,7,150,On Time,7,6500,No,160,150,0.938,5.2
+2024-02-25,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,25,30,40,15,20,Reorder,15,20,On Time,15,34000,No,35,40,0.875,3.1
+2024-03-03,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,600,200,250,550,200,No Reorder,6,250,On Time,6,9500,No,260,250,0.962,3.5
+2024-03-06,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,120,50,80,90,50,No Reorder,9,80,On Time,9,16000,No,90,80,0.889,4.1
+2024-03-08,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,900,300,400,800,300,No Reorder,4,400,On Time,4,4200,No,380,400,0.950,5.3
+2024-03-10,P014,Motor Oil 5W30,Lubricants,PetroLube Ltd,Mumbai,West,400,200,350,250,150,No Reorder,5,300,Delayed,8,6800,No,360,350,0.972,6.8
+2024-03-12,P015,Copper Wire,Electrical,Spark Electric,Chennai,South,500,100,420,180,150,No Reorder,4,200,On Time,4,7200,No,400,420,0.952,5.9
+2024-03-15,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,500,200,220,480,150,No Reorder,7,200,On Time,7,13200,No,230,220,0.957,3.5
+2024-03-18,P002,Safety Gloves,Safety Equipment,Sharma Traders,Delhi,North,800,300,280,820,200,No Reorder,5,300,On Time,5,9000,No,300,280,0.933,4.9
+2024-03-20,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,110,150,200,60,120,Reorder,10,150,Delayed,13,9500,No,190,200,0.947,5.2
+2024-03-22,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1320,500,450,1370,400,No Reorder,8,500,On Time,8,23000,No,440,450,0.978,3.0
+2024-03-25,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,120,400,490,30,250,Reorder,6,300,On Time,6,7100,Yes,470,490,0.957,6.6
+2024-04-02,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,400,150,180,370,100,No Reorder,4,150,On Time,4,6000,No,170,180,0.944,4.2
+2024-04-05,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,110,80,130,60,80,Reorder,12,100,On Time,12,18500,No,120,130,0.923,4.8
+2024-04-08,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,900,1000,1200,700,500,No Reorder,3,1000,On Time,3,3600,No,1150,1200,0.957,7.5
+2024-04-10,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,140,200,280,60,120,Reorder,7,150,Delayed,10,7000,No,260,280,0.929,5.8
+2024-04-12,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,15,30,25,20,20,No Reorder,15,20,On Time,15,33000,No,30,25,0.833,3.0
+2024-04-15,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,550,200,300,450,200,No Reorder,6,250,On Time,6,9800,No,280,300,0.929,3.7
+2024-04-18,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,90,80,100,70,50,No Reorder,9,80,On Time,9,16500,No,95,100,0.950,4.3
+2024-04-20,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,800,400,450,750,300,No Reorder,4,400,On Time,4,4500,No,430,450,0.956,5.5
+2024-04-22,P014,Motor Oil 5W30,Lubricants,PetroLube Ltd,Mumbai,West,250,300,380,170,150,No Reorder,5,300,On Time,5,7000,No,360,380,0.947,7.0
+2024-04-25,P015,Copper Wire,Electrical,Spark Electric,Chennai,South,180,200,310,70,150,Reorder,4,200,Delayed,7,7500,No,300,310,0.968,6.1
+2024-05-03,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,480,200,240,440,150,No Reorder,7,200,On Time,7,13500,No,250,240,0.960,3.6
+2024-05-06,P002,Safety Gloves,Safety Equipment,Sharma Traders,Hyderabad,South,820,300,310,810,200,No Reorder,5,300,On Time,5,9200,No,300,310,0.967,5.0
+2024-05-08,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,60,200,190,70,120,Reorder,10,150,On Time,10,9600,No,180,190,0.947,5.0
+2024-05-10,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1370,400,420,1350,400,No Reorder,8,500,On Time,8,24000,No,410,420,0.976,3.1
+2024-05-12,P016,Bearing Set,Machinery,Bharat Supplies,Kolkata,East,180,100,200,80,100,Reorder,8,120,Delayed,12,11000,No,190,200,0.947,5.3
+2024-05-15,P017,Lubricant Grease,Lubricants,PetroLube Ltd,Mumbai,West,300,150,200,250,100,No Reorder,5,200,On Time,5,5500,No,210,200,0.952,4.8
+2024-05-18,P018,Safety Boots,Safety Equipment,Safe Guard Co,Delhi,North,500,200,300,400,200,No Reorder,6,250,On Time,6,12000,No,280,300,0.933,5.1
+2024-05-20,P019,Insulation Tape,Electrical,Spark Electric,Chennai,South,1200,500,800,900,400,No Reorder,3,600,On Time,3,2800,No,780,800,0.975,6.9
+2024-05-22,P020,Steel Nuts & Bolts,Raw Material,MetalWorks,Mumbai,West,3000,1000,2500,1500,1000,No Reorder,5,1500,On Time,5,4500,No,2400,2500,0.960,7.8
+2024-05-25,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,30,400,380,50,250,Reorder,6,300,On Time,6,7300,No,360,380,0.947,6.3
+2024-06-03,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,370,150,200,320,100,No Reorder,4,150,On Time,4,6200,No,190,200,0.947,4.4
+2024-06-06,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,60,100,120,40,80,Reorder,12,100,Delayed,17,19000,No,110,120,0.917,4.6
+2024-06-08,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,700,1000,1300,400,500,Reorder,3,1000,On Time,3,3800,No,1250,1300,0.962,7.8
+2024-06-10,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,60,200,240,20,120,Reorder,7,150,On Time,7,7200,No,220,240,0.917,5.9
+2024-06-12,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,440,200,230,410,150,No Reorder,7,200,On Time,7,14000,No,240,230,0.958,3.7
+2024-06-15,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,450,250,320,380,200,No Reorder,6,250,On Time,6,10000,No,300,320,0.938,3.9
+2024-06-18,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,70,80,90,60,50,No Reorder,9,80,On Time,9,17000,No,85,90,0.944,4.5
+2024-06-20,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,750,400,500,650,300,No Reorder,4,400,On Time,4,4800,No,480,500,0.960,5.7
+2024-06-22,P016,Bearing Set,Machinery,Bharat Supplies,Kolkata,East,80,120,160,40,100,Reorder,8,120,On Time,8,11500,No,150,160,0.938,5.5
+2024-06-25,P017,Lubricant Grease,Lubricants,PetroLube Ltd,Mumbai,West,250,150,220,180,100,No Reorder,5,200,Delayed,8,5800,No,200,220,0.909,5.0
+2024-07-02,P002,Safety Gloves,Safety Equipment,Sharma Traders,Delhi,North,810,300,350,760,200,No Reorder,5,300,On Time,5,9400,No,330,350,0.943,5.2
+2024-07-05,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,70,200,220,50,120,Reorder,10,150,On Time,10,9800,No,210,220,0.952,5.4
+2024-07-08,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1350,500,480,1370,400,No Reorder,8,500,Delayed,11,25000,No,460,480,0.958,3.2
+2024-07-10,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,50,400,420,30,250,Reorder,6,300,On Time,6,7500,No,400,420,0.952,6.5
+2024-07-12,P018,Safety Boots,Safety Equipment,Safe Guard Co,Delhi,North,400,250,320,330,200,No Reorder,6,250,On Time,6,12500,No,300,320,0.938,5.3
+2024-07-15,P019,Insulation Tape,Electrical,Spark Electric,Chennai,South,900,600,900,600,400,No Reorder,3,600,On Time,3,3000,No,850,900,0.944,7.2
+2024-07-18,P020,Steel Nuts & Bolts,Raw Material,MetalWorks,Mumbai,West,1500,1000,2000,500,1000,Reorder,5,1500,On Time,5,4800,No,1900,2000,0.950,8.0
+2024-07-20,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,320,150,210,260,100,No Reorder,4,150,On Time,4,6400,No,200,210,0.952,4.5
+2024-07-22,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,20,30,30,20,20,No Reorder,15,20,On Time,15,32000,No,25,30,0.833,3.2
+2024-07-25,P014,Motor Oil 5W30,Lubricants,PetroLube Ltd,Mumbai,West,170,300,350,120,150,Reorder,5,300,On Time,5,7200,No,330,350,0.943,7.2
+2024-08-02,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,410,200,250,360,150,No Reorder,7,200,On Time,7,14500,No,260,250,0.962,3.8
+2024-08-05,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,40,100,100,40,80,Reorder,12,100,On Time,12,19500,No,90,100,0.900,4.8
+2024-08-08,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,400,1200,1400,200,500,Reorder,3,1000,On Time,3,4000,No,1350,1400,0.964,8.0
+2024-08-10,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,20,250,220,50,120,Reorder,7,150,Delayed,11,7500,No,200,220,0.909,5.6
+2024-08-12,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,380,250,330,300,200,No Reorder,6,250,On Time,6,10500,No,310,330,0.939,4.1
+2024-08-15,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,60,80,100,40,50,Reorder,9,80,On Time,9,17500,No,90,100,0.900,4.7
+2024-08-18,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,650,400,520,530,300,No Reorder,4,400,On Time,4,5000,No,500,520,0.962,5.9
+2024-08-20,P015,Copper Wire,Electrical,Spark Electric,Chennai,South,70,200,220,50,150,Reorder,4,200,On Time,4,7800,No,200,220,0.909,6.3
+2024-08-22,P016,Bearing Set,Machinery,Bharat Supplies,Kolkata,East,40,120,140,20,100,Reorder,8,120,Delayed,13,12000,Yes,130,140,0.929,5.8
+2024-08-25,P017,Lubricant Grease,Lubricants,PetroLube Ltd,Mumbai,West,180,150,200,130,100,No Reorder,5,200,On Time,5,6000,No,190,200,0.950,5.2
+2024-09-03,P002,Safety Gloves,Safety Equipment,Sharma Traders,Delhi,North,760,300,370,690,200,No Reorder,5,300,On Time,5,9600,No,350,370,0.946,5.4
+2024-09-06,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,50,200,230,20,120,Reorder,10,150,Delayed,15,10000,No,220,230,0.957,5.6
+2024-09-08,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1370,500,500,1370,400,No Reorder,8,500,On Time,8,26000,No,490,500,0.980,3.3
+2024-09-10,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,30,400,410,20,250,Reorder,6,300,On Time,6,7700,Yes,390,410,0.951,6.7
+2024-09-12,P018,Safety Boots,Safety Equipment,Safe Guard Co,Delhi,North,330,250,340,240,200,No Reorder,6,250,On Time,6,13000,No,320,340,0.941,5.5
+2024-09-15,P019,Insulation Tape,Electrical,Spark Electric,Chennai,South,600,600,950,250,400,Reorder,3,600,On Time,3,3200,No,900,950,0.947,7.5
+2024-09-20,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,360,200,260,300,150,No Reorder,7,200,On Time,7,15000,No,270,260,0.963,3.9
+2024-09-22,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,260,150,220,190,100,No Reorder,4,150,On Time,4,6600,No,210,220,0.952,4.7
+2024-09-25,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,20,30,35,15,20,Reorder,15,20,Delayed,18,31000,No,30,35,0.857,3.0
+2024-10-03,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,40,100,110,30,80,Reorder,12,100,On Time,12,20000,No,100,110,0.909,5.0
+2024-10-06,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,200,1200,1350,50,500,Reorder,3,1000,On Time,3,4200,No,1300,1350,0.963,8.3
+2024-10-08,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,50,250,260,40,120,Reorder,7,150,On Time,7,7800,No,240,260,0.923,6.0
+2024-10-10,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,300,250,340,210,200,No Reorder,6,250,On Time,6,11000,No,320,340,0.941,4.3
+2024-10-12,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,40,80,90,30,50,Reorder,9,80,On Time,9,18000,No,85,90,0.944,4.9
+2024-10-15,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,530,400,540,390,300,No Reorder,4,400,Delayed,7,5200,No,510,540,0.944,6.1
+2024-10-18,P014,Motor Oil 5W30,Lubricants,PetroLube Ltd,Mumbai,West,120,300,360,60,150,Reorder,5,300,On Time,5,7400,No,340,360,0.944,7.4
+2024-10-20,P015,Copper Wire,Electrical,Spark Electric,Chennai,South,50,200,210,40,150,Reorder,4,200,On Time,4,8000,No,200,210,0.952,6.5
+2024-10-22,P016,Bearing Set,Machinery,Bharat Supplies,Kolkata,East,20,150,160,10,100,Reorder,8,120,On Time,8,12500,Yes,150,160,0.938,6.0
+2024-10-25,P002,Safety Gloves,Safety Equipment,Sharma Traders,Hyderabad,South,690,300,390,600,200,No Reorder,5,300,On Time,5,9800,No,370,390,0.949,5.6
+2024-11-03,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,300,200,270,230,150,No Reorder,7,200,On Time,7,15500,No,280,270,0.964,4.0
+2024-11-06,P003,Conveyor Belt,Machinery,Rajan Industries,Chennai,South,20,250,240,30,120,Reorder,10,150,On Time,10,10200,No,230,240,0.958,5.8
+2024-11-08,P004,Raw Steel Rods,Raw Material,Steel Corp India,Pune,West,1370,500,520,1350,400,No Reorder,8,500,On Time,8,27000,No,510,520,0.981,3.4
+2024-11-10,P005,Hydraulic Oil,Lubricants,PetroLube Ltd,Ahmedabad,West,20,400,400,20,250,Reorder,6,300,Delayed,9,7900,No,380,400,0.950,6.8
+2024-11-12,P018,Safety Boots,Safety Equipment,Safe Guard Co,Delhi,North,240,250,350,140,200,Reorder,6,250,On Time,6,13500,No,330,350,0.943,5.7
+2024-11-15,P019,Insulation Tape,Electrical,Spark Electric,Chennai,South,250,700,900,50,400,Reorder,3,600,On Time,3,3500,No,850,900,0.944,7.8
+2024-11-18,P017,Lubricant Grease,Lubricants,PetroLube Ltd,Mumbai,West,130,200,220,110,100,No Reorder,5,200,On Time,5,6200,No,200,220,0.909,5.4
+2024-11-22,P006,Electrical Wiring,Electrical,Spark Electric,Hyderabad,South,190,150,230,110,100,No Reorder,4,150,On Time,4,6800,No,220,230,0.957,4.9
+2024-11-25,P007,Forklift Battery,Machinery,PowerCell India,Kolkata,East,30,120,130,20,80,Reorder,12,100,Delayed,18,20500,No,120,130,0.923,5.2
+2024-12-03,P008,Packing Tape,Packaging,Pack Masters,Mumbai,West,50,1500,1450,100,500,Reorder,3,1000,On Time,3,4500,No,1400,1450,0.966,8.6
+2024-12-06,P009,PPE Kit,Safety Equipment,Safe Guard Co,Delhi,North,40,250,270,20,120,Reorder,7,150,On Time,7,8000,No,250,270,0.926,6.2
+2024-12-08,P010,Diesel Generator,Machinery,Power Plus,Chennai,South,15,30,30,15,20,Reorder,15,20,On Time,15,30000,No,25,30,0.833,3.1
+2024-12-10,P011,Welding Rods,Raw Material,MetalWorks,Mumbai,West,210,250,350,110,200,Reorder,6,250,On Time,6,11500,No,330,350,0.943,4.5
+2024-12-12,P012,Air Compressor,Machinery,Bharat Supplies,Pune,West,30,100,100,30,50,Reorder,9,80,On Time,9,18500,No,95,100,0.950,5.1
+2024-12-15,P013,Hard Hat,Safety Equipment,Safe Guard Co,Delhi,North,390,400,560,230,300,Reorder,4,400,On Time,4,5500,No,530,560,0.946,6.3
+2024-12-18,P014,Motor Oil 5W30,Lubricants,PetroLube Ltd,Mumbai,West,60,300,330,30,150,Reorder,5,300,On Time,5,7600,No,310,330,0.939,7.6
+2024-12-20,P015,Copper Wire,Electrical,Spark Electric,Chennai,South,40,200,220,20,150,Reorder,4,200,Delayed,6,8200,No,210,220,0.952,6.7
+2024-12-22,P016,Bearing Set,Machinery,Bharat Supplies,Kolkata,East,10,150,150,10,100,Reorder,8,120,On Time,8,13000,No,140,150,0.933,6.2
+2024-12-25,P001,Industrial Pump A,Machinery,Bharat Supplies,Mumbai,West,230,200,280,150,150,No Reorder,7,200,On Time,7,16000,No,290,280,0.966,4.2
